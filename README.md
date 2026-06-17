@@ -1,4 +1,3 @@
-# .github
 # HertzCast
 
 <p align="center">
