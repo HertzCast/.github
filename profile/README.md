@@ -1,22 +1,18 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/HertzCast/hertzcast.github.io/v2.2.1/screenshots/hertz_logo.png" width="100" alt="HertzCast" />
 </p>
-
 <h1 align="center">HertzCast</h1>
-
 <p align="center">
-  A native macOS app for controlling Yamaha AV receivers over your local network.<br/>
-  No subscriptions. No cloud. No third-party apps.
+  A native macOS app for controlling Yamaha AV receivers over your local network.
 </p>
-
 <p align="center">
-  <a href="https://hertzcast.github.io">🌐 hertzcast.github.io</a>
+  <a href="https://hertzcast.github.io"><img src="https://img.shields.io/badge/hertzcast.github.io-00A878?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
   &nbsp;·&nbsp;
   <img src="https://img.shields.io/badge/macOS-13.0+-000000?style=flat&logo=apple&logoColor=white" alt="macOS 13+" />
   &nbsp;·&nbsp;
   <img src="https://img.shields.io/badge/Swift-5-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift 5" />
   &nbsp;·&nbsp;
-  <img src="https://img.shields.io/badge/App_Store-coming_soon-0D96F6?style=flat&logo=app-store&logoColor=white" alt="App Store" />
+  <a href="https://apps.apple.com/us/app/hertzcast/id6779581253?mt=12"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" alt="App Store" /></a>
 </p>
 
 ---
@@ -30,15 +26,12 @@
 ---
 
 ## What it does
-
 HertzCast puts your Yamaha receiver on your Mac — a full retro-style interface with a real rotating volume knob, transport controls, Net Radio browsing, audio settings, and a mini player in the menu bar.
-
 Everything over your local Wi-Fi. No internet required.
 
 ---
 
 ## Features
-
 | | |
 |---|---|
 | 📺 **Retro LCD Display** | Real-time input, volume in dB, sound mode, album art, scrolling track names |
@@ -53,19 +46,16 @@ Everything over your local Wi-Fi. No internet required.
 ---
 
 ## Dark & Light
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/HertzCast/hertzcast.github.io/v2.2.1/screenshots/UI%20Dark.png" height="400" alt="Dark Mode — green phosphor" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/HertzCast/hertzcast.github.io/v2.2.1/screenshots/UI%20Light.png" height="400" alt="Light Mode — red accent" />
 </p>
-
 <p align="center"><i>Dark — green phosphor &nbsp;·&nbsp; Light — red accent</i></p>
 
 ---
 
 ## More screens
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/HertzCast/hertzcast.github.io/v2.2.1/screenshots/UI%203.png" height="400" alt="Audio Settings" />
   &nbsp;&nbsp;
@@ -77,15 +67,12 @@ Everything over your local Wi-Fi. No internet required.
 ---
 
 ## Tech stack
-
 Built with pure Apple frameworks — no external dependencies, no CocoaPods, no SPM packages.
-
 `Swift 5` · `SwiftUI` · `URLSession` · `SMAppService` · `UserNotifications` · `Bonjour/mDNS`
 
 ---
 
 ## Requirements
-
 - macOS 13.0 (Ventura) or later
 - Yamaha receiver with YXC API support (MusicCast compatible, typically 2015+)
 - Mac and receiver on the same local network
@@ -93,5 +80,5 @@ Built with pure Apple frameworks — no external dependencies, no CocoaPods, no 
 ---
 
 <p align="center">
-  Built by <a href="https://pinecone.design">PINECONE</a> · © 2026 Dan Butuc
+  Built by <a href="https://pinecone.design">PINECONE HUB</a> · © 2026 Dan Butuc
 </p>
